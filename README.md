@@ -1,2 +1,2 @@
-# Raiz
-my personal dotfile
+# DOTFILES
+Aqui ficará meus dotfile pessoal
