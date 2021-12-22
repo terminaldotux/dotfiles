@@ -1,0 +1,36 @@
+Todos os requisitos de todos os modulos:
+##archupdates
+  Arch Linux
+  yay
+  pacman-contrib
+##backlight
+  light
+##bluetooth
+  bluez
+##fanspeed
+  lm_sensors
+##mail
+  mutt/neomutt (We recommend Luke Smith's Mutt-Wizard) for configuration.
+##mpd
+  mpd
+  mpc
+##publicip
+  curl
+##redshift/sunmoon
+  redshift
+##temperature
+##todo
+  t todo manager
+##tor
+  tor
+##voidupdates
+  xbps package manager
+##volume
+  pulseaudio
+##volumebar
+  pulseaudio
+##weather
+  curl
+  Internet connection
+##wifi
+  Wifi card

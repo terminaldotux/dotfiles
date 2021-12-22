@@ -1,0 +1,2 @@
+#!/usr/bin/bash
+wallset -q; wallset -I 1;
